@@ -1,0 +1,12 @@
+* {
+	margin: 0.2%;
+}
+
+#field2 {
+	margin-top: 2%;
+	width: 99.4%;
+	font-size: 1.5rem;
+	box-shadow: 0 0 10px 3px #ccc;
+	padding-bottom: 8%;
+	border: 1px solid #ccc;
+}
